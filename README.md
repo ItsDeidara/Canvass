@@ -1,4 +1,4 @@
-### Project Description: Canvass - GCode Fixer and Uploader
+### Canvass - GCode Fixer and Uploader
 
 **Canvass** is a tool designed to fix the lingering issues with MosaicMFG's seemingly abandoned product. [Canvas3D](https://canvas3d.io/projects)
 
