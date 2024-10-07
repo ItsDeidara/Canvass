@@ -1,0 +1,4 @@
+aiohttp
+configparser
+moonraker-api
+PySide6
