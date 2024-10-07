@@ -39,4 +39,4 @@ Despite what you see in the Canvas slicer, it does not generate G-code correctly
 - Verify the `config.ini` file is correctly formatted and accessible.
 - Check network connectivity if experiencing issues with Moonraker integration.
 
-For further assistance, please refer to the documentation or contact support.
+For further assistance, please tell mosaic to fix their product
